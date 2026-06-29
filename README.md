@@ -1,4 +1,4 @@
-# 📈 Corporate Bankruptcy Prediction — PyTorch vs TensorFlow
+# 📈 Corporate Bankrupt Prediction — PyTorch vs TensorFlow
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
